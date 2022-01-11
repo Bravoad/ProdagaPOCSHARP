@@ -1,0 +1,15 @@
+C:\Users\кирилл\Desktop\4 курс\ПМ-02\Курсовая\ProdajaPO_C#_Рашев\prodajaPO\prodajaPO\bin\Debug\prodajaPO.exe.config
+C:\Users\кирилл\Desktop\4 курс\ПМ-02\Курсовая\ProdajaPO_C#_Рашев\prodajaPO\prodajaPO\bin\Debug\prodajaPO.exe
+C:\Users\кирилл\Desktop\4 курс\ПМ-02\Курсовая\ProdajaPO_C#_Рашев\prodajaPO\prodajaPO\bin\Debug\prodajaPO.pdb
+C:\Users\кирилл\Desktop\4 курс\ПМ-02\Курсовая\ProdajaPO_C#_Рашев\prodajaPO\prodajaPO\obj\Debug\prodajaPO.csprojAssemblyReference.cache
+C:\Users\кирилл\Desktop\4 курс\ПМ-02\Курсовая\ProdajaPO_C#_Рашев\prodajaPO\prodajaPO\obj\Debug\prodajaPO.Favto.resources
+C:\Users\кирилл\Desktop\4 курс\ПМ-02\Курсовая\ProdajaPO_C#_Рашев\prodajaPO\prodajaPO\obj\Debug\prodajaPO.Fpost.resources
+C:\Users\кирилл\Desktop\4 курс\ПМ-02\Курсовая\ProdajaPO_C#_Рашев\prodajaPO\prodajaPO\obj\Debug\prodajaPO.Properties.Resources.resources
+C:\Users\кирилл\Desktop\4 курс\ПМ-02\Курсовая\ProdajaPO_C#_Рашев\prodajaPO\prodajaPO\obj\Debug\prodajaPO.csproj.GenerateResource.cache
+C:\Users\кирилл\Desktop\4 курс\ПМ-02\Курсовая\ProdajaPO_C#_Рашев\prodajaPO\prodajaPO\obj\Debug\prodajaPO.csproj.CoreCompileInputs.cache
+C:\Users\кирилл\Desktop\4 курс\ПМ-02\Курсовая\ProdajaPO_C#_Рашев\prodajaPO\prodajaPO\obj\Debug\prodajaPO.exe
+C:\Users\кирилл\Desktop\4 курс\ПМ-02\Курсовая\ProdajaPO_C#_Рашев\prodajaPO\prodajaPO\obj\Debug\prodajaPO.pdb
+C:\Users\кирилл\Desktop\4 курс\ПМ-02\Курсовая\ProdajaPO_C#_Рашев\prodajaPO\prodajaPO\obj\Debug\prodajaPO.Fzak.resources
+C:\Users\кирилл\Desktop\4 курс\ПМ-02\Курсовая\ProdajaPO_C#_Рашев\prodajaPO\prodajaPO\obj\Debug\prodajaPO.Fstat.resources
+C:\Users\кирилл\Desktop\4 курс\ПМ-02\Курсовая\ProdajaPO_C#_Рашев\prodajaPO\prodajaPO\obj\Debug\prodajaPO.otpravka.resources
+C:\Users\кирилл\Desktop\4 курс\ПМ-02\Курсовая\ProdajaPO_C#_Рашев\prodajaPO\prodajaPO\obj\Debug\prodajaPO.otch.resources
